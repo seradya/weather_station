@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+.idea/
+/wsenv/
+/weather_station/secret.py
+#/weather_station/devsettings.py
+#/weather_station/devurls.py
+#/devmanage.py
